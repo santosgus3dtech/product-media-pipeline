@@ -1,5 +1,7 @@
 # Product Media Pipeline
 
+🇧🇷 [Leia este README em Português (Brasil)](README.pt-BR.md).
+
 A reproducible image-processing pipeline for marketplace-ready product media. The included assets are generated fixtures, not commercial catalog images.
 
 ![Normalized synthetic product contact sheet](docs/images/contact-sheet.png)
